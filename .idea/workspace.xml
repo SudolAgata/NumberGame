@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c40f07fd-adc3-4b5e-94cf-297d02854963" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b0TkXjQOeRdEFji9rootpMH3nt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberGame" />
+      <module name="NumberGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c40f07fd-adc3-4b5e-94cf-297d02854963" name="Default Changelist" comment="" />
+      <created>1587768154835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587768154835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587997252798">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997252798" />
+    <state x="104" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.731/-377.-1177.1920.1177@0.23.1280.731" timestamp="1587996784772" />
+    <state x="377" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587997249847">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="377" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997249847" />
+    <state x="377" y="182" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.731/-377.-1177.1920.1177@0.23.1280.731" timestamp="1587996774944" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1587997395490">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997395490" />
+    <state width="1238" height="182" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1587844624688" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1587997395487">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.center/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997395487" />
+    <state width="1238" height="182" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1587844624687" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1587997395484">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.left/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997395484" />
+    <state width="1238" height="182" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1587844624686" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1587997395489">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.right/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997395489" />
+    <state width="1238" height="182" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1587844624687" />
+    <state x="0" y="0" width="1024" height="800" key="SettingsEditor" timestamp="1587997140611">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="1024" height="800" key="SettingsEditor/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997140611" />
+    <state x="295" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1588000139110">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="295" y="219" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-377.-1200.1920.1200@0.0.1280.800" timestamp="1587997236113" />
+    <state x="295" y="219" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1588000139110" />
+    <state x="296" y="223" key="com.intellij.ide.util.TipDialog/0.23.1280.731/-377.-1177.1920.1177@0.23.1280.731" timestamp="1587996930112" />
+    <state x="296" y="223" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1587768158846" />
+  </component>
+</project>
